@@ -1,1 +1,2666 @@
-[{"Class":"S","Faction":"Emperor\\27s Armada"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Civil Defense"},{"Class":"S","Faction":"Civil Defense"},{"Class":"S","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"S"},{"Faction":"Emperor\\27s Armada","Class":"S"},{"Class":"S","Faction":"Civil Defense"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Emperor\\27s Armada"},{"Class":"S","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"S"},{"Faction":"Emperor\\27s Armada","Class":"S"},{"Faction":"Emperor\\27s Armada","Class":"S"},{"Faction":"Extraneus Mercenarius","Class":"S"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"S"},{"Class":"S","Faction":"Emperor\\27s Armada"},{"Faction":"Civil Defense","Class":"S"},{"Faction":"Civil Defense","Class":"S"},{"Faction":"Civil Defense","Class":"S"},{"Class":"S","Faction":"Emperor\\27s Armada"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"S","Faction":"Civil Defense"},{"Class":"S","Faction":"Emperor\\27s Armada"},{"Class":"S","Faction":"Civil Defense"},{"Class":"S","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"A"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"A"},{"Faction":"Civil Defense","Class":"A"},{"Class":"A","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"A"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"A"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Civil Defense"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Faction":"Emperor\\27s Armada","Class":"A"},{"Class":"A","Faction":"Emperor\\27s Armada"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Faction":"Extraneus Mercenarius","Class":"A"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Class":"A","Faction":"Extraneus Mercenarius"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Class":"B","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"B"},{"Class":"B","Faction":"Civil Defense"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"B"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Class":"B","Faction":"Extraneus Mercenarius"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Civil Defense","Class":"C"},{"Class":"C","Faction":"Civil Defense"},{"Class":"C","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"C"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"C"},{"Class":"C","Faction":"Emperor\\27s Armada"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Faction":"Extraneus Mercenarius","Class":"C"},{"Class":"C","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Class":"D","Faction":"Emperor\\27s Armada"},{"Faction":"Emperor\\27s Armada","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Civil Defense","Class":"D"},{"Class":"D","Faction":"Civil Defense"},{"Faction":"Civil Defense","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Faction":"Extraneus Mercenarius","Class":"D"},{"Class":"D","Faction":"Extraneus Mercenarius"},{"Faction":"Extraneus Mercenarius","Class":"D"}]
+[
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "S"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "S"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "S"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "S"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "S"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "S"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "S"
+    },
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "S"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "S"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "S"
+    },
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "S",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "S",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "S",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "A"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "A"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "A",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "B",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "B"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "B",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "C",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "C"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "C"
+    },
+    {
+        "Class": "C",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Class": "D",
+        "Faction": "Emperor\\27s Armada"
+    },
+    {
+        "Faction": "Emperor\\27s Armada",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Civil Defense"
+    },
+    {
+        "Faction": "Civil Defense",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    },
+    {
+        "Class": "D",
+        "Faction": "Extraneus Mercenarius"
+    },
+    {
+        "Faction": "Extraneus Mercenarius",
+        "Class": "D"
+    }
+]
